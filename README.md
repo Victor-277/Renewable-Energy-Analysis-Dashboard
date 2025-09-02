@@ -40,7 +40,7 @@ It provides insights into solar, wind, hydro, and other renewable energy sources
 - *Power BI* – Dashboard design & visualization  
 - *Power Query* – Data cleaning and transformation  
 - *Excel/CSV* – Dataset preparation
-- *Google Slides * - Used for background design and layout styling
+- *Google Slides* - Used for background design and layout styling
 
 
 
